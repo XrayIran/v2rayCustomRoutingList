@@ -1,4 +1,6 @@
-regexp:.+\.ir$
+regexp:.+\.ir$,
+regexp:.*\\.ir$,
+regexp:^.+\.ir$,
 ext:iran.dat:ir,
 ext:iran.dat:other,
 geoip:ir,
